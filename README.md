@@ -1,5 +1,5 @@
 # Projects
-Bayesian ML projects 
+Bayesian ML models and probabilistic inference
 
 
 ### 1. Dirichlet-Multinomial Die

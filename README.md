@@ -1,2 +1,2 @@
-# projects
+# Projects
 Bayesian ML projects 

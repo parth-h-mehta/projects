@@ -2,4 +2,7 @@
 Bayesian ML projects 
 
 
-### Bayesian Linear Regression
+### 1. Dirichlet-Categorical Die
+
+### 2. Bayesian Linear Regression
+

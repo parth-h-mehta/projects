@@ -2,4 +2,4 @@
 Bayesian ML projects 
 
 
-#parth
+### Bayesian Linear Regression
